@@ -1,3 +1,4 @@
 gamehelp.html linguist-detectable=false
 textfiles/* linguist-detectable=false
-doc/* linguist-documentation
+src/* linguist-detectable=true
+docs/* linguist-documentation
