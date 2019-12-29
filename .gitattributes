@@ -2,3 +2,4 @@ gamehelp.html linguist-detectable=false
 textfiles/* linguist-detectable=false
 src/* linguist-detectable=true
 docs/* linguist-documentation
+*.html linguist-language=Java
