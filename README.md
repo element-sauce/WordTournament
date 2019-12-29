@@ -1,6 +1,6 @@
 # WordTournament 
 
-Wordament is a  one-player puzzle game, where the player
+WordTournament is a  one-player puzzle game, where the player
 starts with a 4 x 4 grid of letters, that can be dragged together in any path to form a word.
 
 The objective of the game is simple: Form as many words as you can to maximize your points
