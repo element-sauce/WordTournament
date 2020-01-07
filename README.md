@@ -11,4 +11,6 @@ on the board.
 
 There are three modes: easy, intermediate, and hard.
 
+Annotations have been made to each Java class explaining its use and design.
+
 Created in 2019.
